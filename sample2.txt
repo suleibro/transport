@@ -1,0 +1,2 @@
+we can write any information in the newly created file using echo command
+check
